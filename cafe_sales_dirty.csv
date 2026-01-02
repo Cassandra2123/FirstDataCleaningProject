@@ -1,0 +1,1001 @@
+OrderID,Date,CustomerName,Item,Quantity,Price,PaymentType,Notes
+1,,UNKNOWN,,,,Cash,Extra sugar
+2,2025/12/04,Eve,Tea,1,,Online,No ice
+"3,""Dec 3, 2025"",UNKNOWN,Cake,Two,3.50,Cash,Spilled order"
+4,2025/12/04,UNKNOWN,Tea,,5.00,,Extra sugar
+5,2025/12/04,,ERROR,,,Online,
+6,12/02/2025,Unknown,Juice,Two,N/A,Online,UNKNOWN
+"7,""Dec 3, 2025"",David,Juice,,,Card,"
+"8,""Dec 3, 2025"",UNKNOWN,Cake,,N/A,Card,"
+"9,""Dec 3, 2025"",Charlie,,,3.50,Cash,Spilled order"
+10,2025/12/04,UNKNOWN,Tea,ERROR,3.50,Online,Extra sugar
+11,,UNKNOWN,Juice,2,,Card,No ice
+"12,""Dec 3, 2025"",UNKNOWN,ERROR,Two,2.75,,"
+13,UNKNOWN,,Sandwich,,N/A,Card,Extra sugar
+14,2025/12/04,Unknown,Coffee,ERROR,5.00,Card,Spilled order
+15,12/02/2025,,Coffee,Two,,Online,
+16,,Alice,Coffee,3,5.00,Online,
+17,UNKNOWN,,,3,,UNKNOWN,UNKNOWN
+18,UNKNOWN,Charlie,Tea,,2.75,,Extra sugar
+19,12/02/2025,Charlie,Cake,ERROR,2.75,Online,UNKNOWN
+20,,,Juice,ERROR,2.75,Cash,Extra sugar
+21,2025/12/04,Unknown,Sandwich,Two,ERROR,,Extra sugar
+22,2025-12-01,Eve,ERROR,Two,2.75,,Spilled order
+23,,David,Sandwich,ERROR,3.50,Online,Spilled order
+24,12/02/2025,Unknown,ERROR,Two,3.50,,Spilled order
+25,UNKNOWN,,,ERROR,ERROR,Online,No ice
+26,2025/12/04,UNKNOWN,Tea,2,N/A,Card,Extra sugar
+27,,Bob,Coffee,ERROR,5.00,UNKNOWN,
+28,2025-12-01,David,Tea,3,,Card,UNKNOWN
+29,2025-12-01,David,,Two,,Online,Spilled order
+"30,""Dec 3, 2025"",Charlie,Cake,ERROR,ERROR,Online,Spilled order"
+"31,""Dec 3, 2025"",David,Cake,ERROR,3.50,Card,UNKNOWN"
+32,12/02/2025,,,Two,,Cash,UNKNOWN
+33,,UNKNOWN,ERROR,2,3.50,Cash,Extra sugar
+34,,UNKNOWN,Juice,2,N/A,Cash,Spilled order
+35,UNKNOWN,Alice,Juice,Two,5.00,Online,UNKNOWN
+36,UNKNOWN,UNKNOWN,ERROR,1,N/A,,No ice
+37,UNKNOWN,Unknown,Cake,Two,ERROR,Online,No ice
+"38,""Dec 3, 2025"",UNKNOWN,Cake,Two,2.75,,Spilled order"
+39,,Charlie,Cake,2,2.75,Card,UNKNOWN
+40,,UNKNOWN,Tea,2,2.75,UNKNOWN,Extra sugar
+41,2025-12-01,Alice,Cake,Two,N/A,,Extra sugar
+"42,""Dec 3, 2025"",Bob,Sandwich,Two,,Cash,Extra sugar"
+43,2025/12/04,,Coffee,Two,5.00,Online,
+"44,""Dec 3, 2025"",Charlie,Cake,2,2.75,Card,Spilled order"
+45,2025/12/04,Unknown,ERROR,Two,ERROR,Cash,Extra sugar
+46,2025-12-01,Bob,Coffee,Two,ERROR,Card,No ice
+47,12/02/2025,Charlie,Tea,,2.75,UNKNOWN,UNKNOWN
+48,,Eve,ERROR,1,2.75,Online,
+49,2025-12-01,David,Coffee,3,5.00,Online,
+50,,Eve,ERROR,1,2.75,UNKNOWN,Extra sugar
+51,UNKNOWN,UNKNOWN,Tea,,5.00,Online,
+52,12/02/2025,Bob,Sandwich,3,ERROR,,
+53,12/02/2025,UNKNOWN,Tea,Two,2.75,Card,
+54,2025-12-01,David,Tea,,N/A,Cash,No ice
+55,12/02/2025,Charlie,ERROR,Two,N/A,UNKNOWN,No ice
+56,2025/12/04,David,,2,ERROR,,
+57,12/02/2025,Alice,Juice,ERROR,5.00,Cash,
+58,,David,Cake,,N/A,Cash,
+59,,Alice,Cake,2,5.00,UNKNOWN,Spilled order
+60,,David,Sandwich,,N/A,,UNKNOWN
+61,,,Sandwich,,N/A,Cash,UNKNOWN
+62,2025/12/04,Alice,Cake,2,5.00,Cash,
+"63,""Dec 3, 2025"",Bob,Juice,3,,,UNKNOWN"
+64,UNKNOWN,UNKNOWN,Cake,1,N/A,Online,
+65,2025-12-01,Unknown,,Two,2.75,Cash,No ice
+66,,UNKNOWN,Juice,,ERROR,Card,UNKNOWN
+67,12/02/2025,Eve,Sandwich,Two,,,
+68,,UNKNOWN,Coffee,ERROR,5.00,Cash,Spilled order
+69,12/02/2025,Charlie,ERROR,2,,UNKNOWN,
+70,UNKNOWN,,,Two,3.50,Card,Extra sugar
+71,UNKNOWN,David,,2,3.50,Cash,
+72,UNKNOWN,Eve,Sandwich,Two,N/A,Card,
+73,12/02/2025,Charlie,Sandwich,1,N/A,Card,No ice
+74,,Charlie,Tea,1,2.75,Online,No ice
+75,UNKNOWN,Alice,,1,ERROR,Card,UNKNOWN
+76,2025/12/04,UNKNOWN,Tea,1,,Online,
+77,12/02/2025,Bob,Tea,1,3.50,,Extra sugar
+78,12/02/2025,Unknown,ERROR,1,N/A,Online,
+79,,Bob,Tea,2,ERROR,UNKNOWN,
+80,12/02/2025,Eve,Juice,,,Cash,
+81,12/02/2025,,Cake,Two,N/A,,
+82,UNKNOWN,Bob,Coffee,1,N/A,,Extra sugar
+83,,David,Sandwich,2,3.50,UNKNOWN,
+84,UNKNOWN,Bob,Juice,2,3.50,Online,Spilled order
+85,UNKNOWN,Eve,Coffee,2,N/A,Cash,Spilled order
+86,,Unknown,,,5.00,Online,No ice
+87,2025-12-01,Bob,,Two,N/A,Card,UNKNOWN
+88,UNKNOWN,David,,,ERROR,Online,
+89,2025/12/04,Alice,Juice,3,N/A,,No ice
+90,2025/12/04,,Juice,2,2.75,Cash,Extra sugar
+91,12/02/2025,Eve,Sandwich,3,2.75,Online,Spilled order
+92,2025/12/04,Alice,Cake,ERROR,2.75,Cash,
+93,12/02/2025,Alice,Tea,1,5.00,Cash,Extra sugar
+94,2025-12-01,Alice,,1,5.00,Card,UNKNOWN
+95,,Charlie,ERROR,,N/A,Card,Extra sugar
+96,,,Cake,Two,2.75,,
+97,,Unknown,ERROR,3,5.00,UNKNOWN,UNKNOWN
+98,2025/12/04,UNKNOWN,Sandwich,Two,3.50,Cash,Extra sugar
+99,2025-12-01,,Sandwich,,N/A,UNKNOWN,UNKNOWN
+100,2025/12/04,Charlie,Sandwich,1,ERROR,,
+101,2025/12/04,UNKNOWN,Coffee,Two,,Cash,
+102,2025-12-01,,ERROR,Two,N/A,Cash,UNKNOWN
+103,2025-12-01,Alice,Cake,1,,UNKNOWN,
+104,2025-12-01,Eve,Cake,3,2.75,Online,No ice
+105,2025-12-01,UNKNOWN,Juice,1,,Card,Extra sugar
+106,,David,Juice,Two,2.75,Online,Extra sugar
+"107,""Dec 3, 2025"",David,,3,3.50,UNKNOWN,"
+"108,""Dec 3, 2025"",Bob,Juice,3,,Card,"
+109,2025-12-01,UNKNOWN,Sandwich,1,N/A,Online,
+"110,""Dec 3, 2025"",Eve,Cake,Two,2.75,Card,Spilled order"
+"111,""Dec 3, 2025"",Unknown,ERROR,,N/A,Cash,Spilled order"
+112,2025-12-01,Charlie,Sandwich,Two,5.00,Online,UNKNOWN
+"113,""Dec 3, 2025"",Alice,Coffee,2,2.75,Card,Spilled order"
+114,2025/12/04,Bob,Juice,ERROR,,Card,
+115,12/02/2025,David,Sandwich,,2.75,Card,UNKNOWN
+116,12/02/2025,Charlie,Sandwich,3,N/A,Online,Extra sugar
+117,2025-12-01,Charlie,Coffee,,3.50,,No ice
+118,,Alice,Tea,3,2.75,Online,
+119,2025-12-01,Unknown,Cake,3,,UNKNOWN,Extra sugar
+120,,Unknown,ERROR,,5.00,Online,Extra sugar
+121,12/02/2025,UNKNOWN,,3,ERROR,Card,UNKNOWN
+122,2025-12-01,David,Tea,3,3.50,Cash,
+123,UNKNOWN,Unknown,Juice,2,5.00,Online,
+124,2025/12/04,Eve,Sandwich,Two,2.75,Online,
+"125,""Dec 3, 2025"",Unknown,Coffee,Two,N/A,Card,"
+126,,Charlie,Coffee,ERROR,N/A,Cash,Extra sugar
+127,UNKNOWN,Alice,Cake,ERROR,,Cash,
+"128,""Dec 3, 2025"",Eve,Tea,2,N/A,UNKNOWN,Spilled order"
+"129,""Dec 3, 2025"",UNKNOWN,,ERROR,3.50,Online,"
+130,2025-12-01,David,Cake,,N/A,Cash,Extra sugar
+"131,""Dec 3, 2025"",UNKNOWN,Sandwich,1,,Cash,UNKNOWN"
+132,2025/12/04,Charlie,Cake,1,ERROR,,
+133,UNKNOWN,Eve,ERROR,1,2.75,,No ice
+"134,""Dec 3, 2025"",Eve,Coffee,2,2.75,Cash,"
+135,2025-12-01,Eve,Coffee,2,N/A,UNKNOWN,Extra sugar
+136,2025/12/04,Charlie,Juice,3,5.00,Cash,No ice
+137,12/02/2025,Charlie,Juice,1,2.75,Card,No ice
+138,UNKNOWN,UNKNOWN,,,ERROR,Online,Spilled order
+"139,""Dec 3, 2025"",Bob,Sandwich,ERROR,N/A,UNKNOWN,No ice"
+140,2025-12-01,UNKNOWN,ERROR,,,Card,UNKNOWN
+141,12/02/2025,David,Tea,ERROR,ERROR,UNKNOWN,Extra sugar
+142,12/02/2025,Alice,Cake,1,N/A,Card,Extra sugar
+143,,Eve,,1,ERROR,Online,
+144,2025/12/04,Bob,Sandwich,1,2.75,Online,
+"145,""Dec 3, 2025"",Alice,Juice,2,,,"
+146,2025-12-01,Bob,Cake,ERROR,N/A,Card,UNKNOWN
+147,,Unknown,Juice,2,3.50,,No ice
+148,2025/12/04,Unknown,Cake,2,,Card,No ice
+149,,,Tea,Two,3.50,,Spilled order
+150,UNKNOWN,Unknown,Sandwich,,ERROR,Online,UNKNOWN
+151,2025/12/04,UNKNOWN,Cake,,5.00,UNKNOWN,
+152,2025/12/04,Unknown,ERROR,3,,,
+"153,""Dec 3, 2025"",Charlie,,2,ERROR,Card,Spilled order"
+154,2025/12/04,Eve,Coffee,ERROR,3.50,Card,
+155,,UNKNOWN,ERROR,Two,2.75,Online,No ice
+156,2025/12/04,Alice,ERROR,Two,2.75,Card,Spilled order
+"157,""Dec 3, 2025"",,,,5.00,Cash,Spilled order"
+"158,""Dec 3, 2025"",,Coffee,2,,UNKNOWN,Extra sugar"
+159,UNKNOWN,,ERROR,3,,,No ice
+160,,Alice,Cake,2,,UNKNOWN,No ice
+161,12/02/2025,Alice,Cake,1,ERROR,Online,UNKNOWN
+162,12/02/2025,Alice,Cake,2,5.00,,Spilled order
+163,2025/12/04,Alice,Coffee,1,,,No ice
+164,UNKNOWN,,ERROR,1,ERROR,Cash,Spilled order
+165,2025-12-01,,Coffee,3,2.75,Online,UNKNOWN
+166,2025/12/04,Bob,Cake,ERROR,3.50,Card,UNKNOWN
+167,UNKNOWN,UNKNOWN,,,ERROR,Cash,Extra sugar
+168,,Eve,ERROR,2,2.75,Cash,Spilled order
+169,,Unknown,ERROR,1,2.75,UNKNOWN,No ice
+170,,Unknown,Juice,2,3.50,UNKNOWN,No ice
+171,,Charlie,Juice,ERROR,2.75,UNKNOWN,Spilled order
+172,,,Tea,,5.00,Cash,Spilled order
+173,UNKNOWN,Charlie,Sandwich,ERROR,3.50,Card,Spilled order
+174,UNKNOWN,UNKNOWN,Juice,,2.75,,
+"175,""Dec 3, 2025"",UNKNOWN,Coffee,Two,N/A,UNKNOWN,No ice"
+176,12/02/2025,Charlie,Juice,,ERROR,Card,UNKNOWN
+177,,,Tea,3,2.75,Online,No ice
+178,2025-12-01,Charlie,ERROR,ERROR,5.00,UNKNOWN,
+179,UNKNOWN,Unknown,Tea,1,,,Spilled order
+180,2025-12-01,Bob,ERROR,Two,2.75,Online,Extra sugar
+181,2025-12-01,Unknown,,3,,Online,Spilled order
+182,2025-12-01,David,,2,N/A,,Spilled order
+"183,""Dec 3, 2025"",,ERROR,ERROR,2.75,UNKNOWN,"
+184,UNKNOWN,,Sandwich,1,3.50,Cash,No ice
+185,2025-12-01,Eve,Juice,,,,Spilled order
+186,,Alice,Coffee,1,N/A,,No ice
+187,2025/12/04,David,Coffee,2,3.50,,
+188,2025-12-01,UNKNOWN,Cake,Two,3.50,Online,UNKNOWN
+"189,""Dec 3, 2025"",,ERROR,Two,3.50,Card,No ice"
+190,UNKNOWN,Charlie,Coffee,ERROR,3.50,Cash,Extra sugar
+"191,""Dec 3, 2025"",David,Sandwich,Two,2.75,UNKNOWN,UNKNOWN"
+192,2025-12-01,Eve,ERROR,ERROR,ERROR,UNKNOWN,Extra sugar
+193,UNKNOWN,UNKNOWN,Sandwich,ERROR,2.75,Card,Spilled order
+194,2025/12/04,Alice,Coffee,ERROR,2.75,,UNKNOWN
+195,2025-12-01,Alice,Coffee,,N/A,Cash,No ice
+"196,""Dec 3, 2025"",Eve,Cake,3,N/A,UNKNOWN,UNKNOWN"
+197,12/02/2025,Eve,Coffee,ERROR,ERROR,UNKNOWN,Spilled order
+198,,Charlie,ERROR,ERROR,N/A,,
+"199,""Dec 3, 2025"",,,3,5.00,Card,Extra sugar"
+200,UNKNOWN,Alice,ERROR,1,ERROR,Cash,Spilled order
+201,2025-12-01,UNKNOWN,ERROR,ERROR,N/A,Card,
+202,,David,Cake,,ERROR,Card,UNKNOWN
+203,2025-12-01,UNKNOWN,Cake,Two,2.75,Cash,UNKNOWN
+204,UNKNOWN,Bob,Coffee,Two,2.75,Cash,Spilled order
+205,2025-12-01,Bob,Tea,2,ERROR,UNKNOWN,No ice
+206,12/02/2025,Eve,Tea,2,5.00,UNKNOWN,UNKNOWN
+207,,Charlie,Cake,Two,5.00,Cash,No ice
+208,,Bob,Coffee,Two,ERROR,Online,No ice
+209,UNKNOWN,Alice,Tea,,N/A,UNKNOWN,No ice
+210,12/02/2025,UNKNOWN,Coffee,3,,Online,
+"211,""Dec 3, 2025"",UNKNOWN,Coffee,2,5.00,Cash,"
+212,2025-12-01,Eve,Coffee,3,3.50,UNKNOWN,
+213,2025/12/04,,Juice,,2.75,Card,UNKNOWN
+214,2025-12-01,,ERROR,Two,ERROR,Cash,UNKNOWN
+215,2025-12-01,David,Coffee,ERROR,3.50,,No ice
+"216,""Dec 3, 2025"",Eve,Juice,3,ERROR,Online,"
+217,2025-12-01,Unknown,Cake,Two,2.75,Cash,No ice
+218,12/02/2025,David,Tea,Two,2.75,Cash,
+219,12/02/2025,Unknown,ERROR,1,5.00,UNKNOWN,No ice
+220,,,,3,5.00,UNKNOWN,Extra sugar
+221,UNKNOWN,Eve,Tea,ERROR,3.50,UNKNOWN,Extra sugar
+222,2025/12/04,Unknown,ERROR,3,ERROR,,Spilled order
+223,2025-12-01,Eve,,Two,2.75,UNKNOWN,No ice
+224,2025-12-01,Eve,Tea,ERROR,3.50,Cash,UNKNOWN
+"225,""Dec 3, 2025"",,ERROR,,,UNKNOWN,"
+226,UNKNOWN,David,Tea,1,3.50,Card,Spilled order
+227,12/02/2025,David,Tea,Two,N/A,UNKNOWN,UNKNOWN
+228,2025/12/04,Eve,,2,3.50,,Extra sugar
+229,,Bob,Tea,2,N/A,Card,No ice
+230,12/02/2025,Charlie,Tea,1,N/A,Cash,Spilled order
+231,UNKNOWN,,,,N/A,Cash,No ice
+232,,Charlie,Cake,Two,,Online,Extra sugar
+"233,""Dec 3, 2025"",Charlie,Coffee,3,3.50,Card,Spilled order"
+"234,""Dec 3, 2025"",David,Sandwich,1,3.50,Online,Extra sugar"
+235,2025-12-01,David,Juice,,,Card,
+236,UNKNOWN,Bob,Sandwich,3,2.75,Card,Extra sugar
+237,2025/12/04,Charlie,Sandwich,2,5.00,,No ice
+238,,Charlie,ERROR,2,3.50,Online,
+239,12/02/2025,Eve,Coffee,3,5.00,,Extra sugar
+240,UNKNOWN,David,ERROR,1,ERROR,Card,UNKNOWN
+241,UNKNOWN,Charlie,Coffee,2,ERROR,Cash,
+"242,""Dec 3, 2025"",UNKNOWN,,Two,,Card,"
+243,2025-12-01,Bob,,ERROR,ERROR,,Spilled order
+244,2025-12-01,Unknown,Coffee,3,ERROR,Online,Spilled order
+245,,UNKNOWN,Tea,3,2.75,Online,
+"246,""Dec 3, 2025"",UNKNOWN,Cake,2,2.75,,Spilled order"
+247,UNKNOWN,Unknown,Tea,1,2.75,Online,Extra sugar
+248,2025/12/04,,Cake,Two,ERROR,UNKNOWN,
+"249,""Dec 3, 2025"",,ERROR,1,,Cash,No ice"
+250,,Bob,Cake,,N/A,Cash,Extra sugar
+251,,UNKNOWN,ERROR,,N/A,Cash,Extra sugar
+"252,""Dec 3, 2025"",Charlie,,ERROR,5.00,Online,Extra sugar"
+253,,David,Sandwich,2,N/A,Online,No ice
+"254,""Dec 3, 2025"",Bob,,2,N/A,Card,"
+255,12/02/2025,Eve,,2,2.75,Card,UNKNOWN
+"256,""Dec 3, 2025"",Unknown,Sandwich,ERROR,2.75,Cash,Spilled order"
+"257,""Dec 3, 2025"",UNKNOWN,Cake,,ERROR,UNKNOWN,"
+258,,Bob,Cake,1,5.00,Card,
+259,,Alice,ERROR,ERROR,3.50,Card,
+260,2025-12-01,Alice,Tea,ERROR,5.00,Online,Spilled order
+261,2025-12-01,,ERROR,1,5.00,UNKNOWN,No ice
+262,12/02/2025,Unknown,Tea,2,,Cash,Extra sugar
+263,2025-12-01,David,,Two,ERROR,Card,Extra sugar
+"264,""Dec 3, 2025"",Charlie,Sandwich,1,,UNKNOWN,No ice"
+265,,David,,,5.00,UNKNOWN,
+266,2025-12-01,David,Coffee,3,5.00,Cash,
+267,2025-12-01,David,Cake,3,5.00,UNKNOWN,
+268,12/02/2025,Unknown,Tea,ERROR,N/A,UNKNOWN,No ice
+269,UNKNOWN,David,ERROR,3,,UNKNOWN,
+270,12/02/2025,Eve,Sandwich,Two,5.00,Card,No ice
+"271,""Dec 3, 2025"",Unknown,Tea,2,2.75,Cash,Spilled order"
+272,,Eve,ERROR,,ERROR,UNKNOWN,Extra sugar
+273,12/02/2025,Unknown,Cake,Two,ERROR,UNKNOWN,Extra sugar
+274,2025-12-01,,,,2.75,Card,Extra sugar
+275,,Bob,Cake,,ERROR,Cash,No ice
+276,,Alice,Juice,2,N/A,Online,No ice
+277,2025-12-01,David,Coffee,ERROR,N/A,Card,
+278,12/02/2025,,Juice,3,3.50,Cash,Extra sugar
+279,2025-12-01,Bob,Sandwich,2,3.50,UNKNOWN,
+280,UNKNOWN,Alice,Tea,Two,3.50,Cash,Extra sugar
+281,,UNKNOWN,Sandwich,ERROR,ERROR,Cash,
+282,2025/12/04,Charlie,,Two,N/A,Cash,
+283,2025/12/04,Eve,ERROR,ERROR,N/A,Online,Spilled order
+"284,""Dec 3, 2025"",UNKNOWN,Cake,Two,N/A,Cash,"
+285,2025-12-01,Unknown,Juice,2,2.75,Online,No ice
+286,2025-12-01,Alice,Juice,ERROR,N/A,UNKNOWN,
+"287,""Dec 3, 2025"",UNKNOWN,,ERROR,2.75,Online,Extra sugar"
+"288,""Dec 3, 2025"",Charlie,Juice,,3.50,UNKNOWN,"
+"289,""Dec 3, 2025"",,,,3.50,UNKNOWN,"
+290,,Alice,Sandwich,1,ERROR,Online,UNKNOWN
+291,UNKNOWN,UNKNOWN,Cake,Two,3.50,Card,Extra sugar
+292,2025-12-01,Eve,Tea,,ERROR,,
+293,,Eve,ERROR,1,5.00,Cash,Extra sugar
+"294,""Dec 3, 2025"",Bob,Tea,,5.00,,No ice"
+295,2025-12-01,UNKNOWN,Sandwich,Two,,Cash,UNKNOWN
+296,,David,ERROR,ERROR,ERROR,Cash,UNKNOWN
+297,UNKNOWN,UNKNOWN,Juice,3,,UNKNOWN,No ice
+298,,,Coffee,Two,,Cash,UNKNOWN
+299,UNKNOWN,Alice,Sandwich,2,5.00,Cash,No ice
+"300,""Dec 3, 2025"",Alice,Sandwich,,ERROR,Online,"
+301,UNKNOWN,,Cake,,5.00,,Spilled order
+302,2025-12-01,UNKNOWN,Tea,ERROR,,Online,Extra sugar
+"303,""Dec 3, 2025"",,Sandwich,2,ERROR,Cash,No ice"
+304,2025-12-01,Charlie,Sandwich,ERROR,,UNKNOWN,Extra sugar
+305,2025/12/04,Unknown,Juice,2,N/A,Online,
+306,12/02/2025,,Juice,3,ERROR,Online,Spilled order
+307,UNKNOWN,Eve,ERROR,,ERROR,Card,
+308,12/02/2025,,,,,Cash,UNKNOWN
+309,12/02/2025,Alice,,3,N/A,UNKNOWN,Extra sugar
+310,UNKNOWN,Eve,Coffee,1,2.75,Online,Spilled order
+"311,""Dec 3, 2025"",Alice,,ERROR,5.00,Online,UNKNOWN"
+312,2025/12/04,Bob,Cake,3,,UNKNOWN,Spilled order
+313,2025-12-01,David,Coffee,ERROR,ERROR,Cash,UNKNOWN
+314,,Alice,ERROR,Two,5.00,Card,
+315,2025-12-01,Eve,Juice,,5.00,Online,No ice
+316,,Bob,,ERROR,5.00,Card,Extra sugar
+317,2025-12-01,Alice,Tea,2,2.75,,
+318,UNKNOWN,Charlie,Juice,ERROR,3.50,Cash,
+319,2025/12/04,,Cake,Two,,,
+320,,David,Juice,,3.50,,Extra sugar
+"321,""Dec 3, 2025"",Alice,Cake,3,3.50,,Extra sugar"
+322,2025-12-01,Bob,Cake,Two,3.50,Cash,
+323,2025-12-01,Charlie,Cake,,5.00,Cash,Extra sugar
+324,,UNKNOWN,ERROR,ERROR,N/A,UNKNOWN,No ice
+"325,""Dec 3, 2025"",Bob,Cake,1,5.00,Card,"
+"326,""Dec 3, 2025"",,Cake,1,5.00,Card,No ice"
+327,UNKNOWN,Bob,Tea,2,ERROR,UNKNOWN,Extra sugar
+328,UNKNOWN,Charlie,Coffee,,ERROR,UNKNOWN,
+329,UNKNOWN,Bob,Sandwich,1,3.50,,Extra sugar
+330,UNKNOWN,Charlie,Coffee,3,5.00,UNKNOWN,
+331,UNKNOWN,Alice,Cake,,3.50,Online,Extra sugar
+332,UNKNOWN,Unknown,Tea,3,ERROR,Card,No ice
+333,2025/12/04,Charlie,Juice,3,N/A,UNKNOWN,No ice
+"334,""Dec 3, 2025"",Charlie,Tea,1,,Online,Extra sugar"
+335,UNKNOWN,David,Cake,,3.50,Online,
+"336,""Dec 3, 2025"",Charlie,Tea,ERROR,N/A,Online,"
+"337,""Dec 3, 2025"",Charlie,,Two,,Online,No ice"
+338,12/02/2025,UNKNOWN,Tea,1,2.75,,No ice
+339,2025/12/04,Unknown,Cake,1,3.50,Online,UNKNOWN
+340,UNKNOWN,Alice,ERROR,ERROR,3.50,,
+341,2025-12-01,,,,2.75,,Extra sugar
+342,,David,Tea,,2.75,Online,
+343,2025-12-01,UNKNOWN,Sandwich,3,3.50,Card,UNKNOWN
+344,2025/12/04,Eve,Sandwich,ERROR,2.75,Online,Extra sugar
+345,,Unknown,Tea,ERROR,5.00,Online,Spilled order
+346,2025/12/04,Alice,ERROR,,,Online,No ice
+"347,""Dec 3, 2025"",Alice,Juice,3,,Card,Spilled order"
+348,,Eve,Cake,1,,Cash,No ice
+"349,""Dec 3, 2025"",,Sandwich,2,5.00,Cash,No ice"
+350,2025-12-01,Charlie,Juice,Two,2.75,,Spilled order
+351,2025-12-01,UNKNOWN,Tea,1,N/A,,Spilled order
+352,,Bob,Juice,,2.75,Card,Extra sugar
+353,,David,,Two,3.50,UNKNOWN,UNKNOWN
+354,UNKNOWN,Bob,Coffee,2,ERROR,Cash,UNKNOWN
+355,2025/12/04,Eve,Sandwich,2,,,Spilled order
+356,UNKNOWN,Alice,Tea,3,2.75,Cash,Extra sugar
+357,2025/12/04,,Cake,Two,N/A,Card,UNKNOWN
+358,UNKNOWN,Alice,ERROR,3,3.50,Card,Extra sugar
+"359,""Dec 3, 2025"",David,,1,5.00,UNKNOWN,Extra sugar"
+360,,Alice,Tea,ERROR,5.00,UNKNOWN,No ice
+361,2025-12-01,Alice,Cake,ERROR,N/A,Card,UNKNOWN
+362,2025/12/04,David,ERROR,ERROR,3.50,,UNKNOWN
+363,2025/12/04,UNKNOWN,ERROR,Two,,Cash,No ice
+364,2025-12-01,UNKNOWN,Tea,ERROR,2.75,Online,Spilled order
+365,UNKNOWN,David,,1,3.50,UNKNOWN,No ice
+366,2025/12/04,,Juice,3,5.00,Online,UNKNOWN
+"367,""Dec 3, 2025"",Eve,Juice,Two,N/A,,UNKNOWN"
+368,,Unknown,ERROR,3,N/A,UNKNOWN,Spilled order
+369,2025-12-01,Alice,Juice,Two,2.75,Online,No ice
+370,,,Coffee,3,N/A,,
+371,2025/12/04,Alice,ERROR,2,N/A,Cash,
+372,2025/12/04,Unknown,ERROR,3,3.50,,Spilled order
+373,2025-12-01,Eve,Cake,ERROR,,UNKNOWN,No ice
+"374,""Dec 3, 2025"",UNKNOWN,Juice,2,2.75,Card,No ice"
+375,12/02/2025,,,3,3.50,Cash,Extra sugar
+376,2025-12-01,Charlie,ERROR,Two,,Online,UNKNOWN
+377,12/02/2025,Charlie,,Two,3.50,UNKNOWN,
+378,UNKNOWN,Unknown,Coffee,Two,ERROR,Card,Spilled order
+379,12/02/2025,Charlie,Cake,,3.50,,
+"380,""Dec 3, 2025"",UNKNOWN,Tea,1,N/A,Card,"
+381,UNKNOWN,Unknown,,Two,,UNKNOWN,Spilled order
+382,12/02/2025,UNKNOWN,ERROR,2,2.75,UNKNOWN,No ice
+383,UNKNOWN,Eve,Coffee,Two,2.75,Card,Spilled order
+384,12/02/2025,Alice,Sandwich,,,,
+"385,""Dec 3, 2025"",Eve,Coffee,ERROR,N/A,Card,UNKNOWN"
+386,12/02/2025,Eve,Coffee,2,5.00,UNKNOWN,UNKNOWN
+387,12/02/2025,UNKNOWN,Cake,,3.50,UNKNOWN,UNKNOWN
+388,12/02/2025,Unknown,Tea,ERROR,N/A,Online,No ice
+389,2025-12-01,Unknown,Sandwich,2,ERROR,Online,
+390,2025-12-01,Charlie,Juice,3,,Cash,Spilled order
+391,2025-12-01,Bob,Juice,1,3.50,UNKNOWN,UNKNOWN
+"392,""Dec 3, 2025"",Alice,,1,2.75,Online,Spilled order"
+393,UNKNOWN,UNKNOWN,Coffee,,5.00,Card,UNKNOWN
+394,2025/12/04,Charlie,Cake,ERROR,ERROR,,No ice
+395,12/02/2025,,Cake,1,2.75,Card,
+396,12/02/2025,Bob,Juice,ERROR,,,
+"397,""Dec 3, 2025"",Bob,,ERROR,3.50,Online,UNKNOWN"
+398,12/02/2025,UNKNOWN,,,,Cash,No ice
+399,2025-12-01,David,,,3.50,Card,Extra sugar
+400,2025/12/04,Alice,Sandwich,,N/A,Card,Spilled order
+401,,Bob,Tea,1,5.00,Card,Spilled order
+402,12/02/2025,UNKNOWN,Sandwich,,N/A,,
+403,2025-12-01,UNKNOWN,ERROR,1,N/A,Online,No ice
+404,,Charlie,ERROR,,,Card,
+405,2025/12/04,,Tea,Two,5.00,Card,UNKNOWN
+406,,David,Juice,ERROR,3.50,Cash,
+407,2025-12-01,Alice,Tea,,3.50,Cash,
+408,UNKNOWN,Unknown,Cake,2,ERROR,Online,Spilled order
+409,UNKNOWN,Eve,ERROR,ERROR,2.75,Online,
+410,,,Coffee,ERROR,ERROR,UNKNOWN,
+"411,""Dec 3, 2025"",,Coffee,,ERROR,Cash,No ice"
+412,,Charlie,Juice,3,3.50,UNKNOWN,
+413,12/02/2025,Unknown,Cake,,,,UNKNOWN
+414,12/02/2025,Bob,Sandwich,ERROR,N/A,UNKNOWN,UNKNOWN
+415,UNKNOWN,Bob,Cake,2,N/A,Card,UNKNOWN
+"416,""Dec 3, 2025"",Charlie,Coffee,ERROR,N/A,UNKNOWN,Spilled order"
+417,2025-12-01,UNKNOWN,Coffee,2,5.00,Online,
+418,12/02/2025,Bob,ERROR,1,3.50,,No ice
+419,UNKNOWN,David,Cake,Two,,Card,
+420,2025/12/04,Alice,Cake,ERROR,5.00,UNKNOWN,Spilled order
+421,UNKNOWN,,Coffee,,2.75,,
+422,12/02/2025,,Sandwich,1,,,Spilled order
+423,12/02/2025,David,Juice,Two,ERROR,Card,UNKNOWN
+424,UNKNOWN,Unknown,,,,UNKNOWN,
+425,2025-12-01,Bob,Juice,3,,,UNKNOWN
+426,,,Cake,,N/A,,Extra sugar
+427,12/02/2025,Eve,Juice,2,,Cash,Spilled order
+428,UNKNOWN,Unknown,Coffee,2,ERROR,,Spilled order
+429,UNKNOWN,Alice,Coffee,3,ERROR,Cash,No ice
+"430,""Dec 3, 2025"",Alice,Cake,1,3.50,UNKNOWN,"
+431,,,Cake,Two,,UNKNOWN,
+432,2025/12/04,Charlie,,,N/A,UNKNOWN,
+433,2025-12-01,Unknown,,2,,Online,No ice
+434,2025/12/04,,ERROR,1,2.75,UNKNOWN,No ice
+435,,Charlie,Cake,3,2.75,,
+436,,,Sandwich,ERROR,N/A,Card,UNKNOWN
+437,,Eve,Juice,2,3.50,Cash,
+438,2025/12/04,Unknown,Cake,3,3.50,Online,Spilled order
+439,,UNKNOWN,Tea,,ERROR,UNKNOWN,UNKNOWN
+440,UNKNOWN,Alice,ERROR,Two,ERROR,UNKNOWN,Extra sugar
+441,2025/12/04,,Tea,2,5.00,Card,
+442,,Eve,Coffee,2,N/A,Card,No ice
+443,UNKNOWN,Charlie,,,,Online,UNKNOWN
+"444,""Dec 3, 2025"",Charlie,Juice,ERROR,N/A,Cash,"
+445,,Alice,Cake,1,5.00,UNKNOWN,
+446,2025/12/04,David,Tea,Two,ERROR,Online,Extra sugar
+447,12/02/2025,,Juice,2,N/A,,Spilled order
+448,,Unknown,Coffee,Two,N/A,,
+449,12/02/2025,Bob,,2,ERROR,Online,
+450,UNKNOWN,Charlie,Sandwich,Two,5.00,UNKNOWN,Extra sugar
+"451,""Dec 3, 2025"",Unknown,ERROR,3,ERROR,Online,Spilled order"
+452,2025-12-01,Unknown,Juice,2,3.50,UNKNOWN,No ice
+"453,""Dec 3, 2025"",UNKNOWN,Juice,Two,,Card,UNKNOWN"
+454,,Unknown,Sandwich,1,ERROR,Online,Spilled order
+455,12/02/2025,Unknown,Juice,3,5.00,UNKNOWN,
+456,12/02/2025,UNKNOWN,Coffee,3,2.75,Online,
+457,2025/12/04,Charlie,Coffee,1,3.50,Online,
+458,12/02/2025,Unknown,Sandwich,Two,2.75,UNKNOWN,No ice
+459,2025/12/04,David,ERROR,,ERROR,UNKNOWN,
+460,UNKNOWN,David,Cake,1,3.50,Cash,Spilled order
+461,2025-12-01,Eve,Tea,Two,,Online,
+462,,UNKNOWN,Cake,1,ERROR,,No ice
+463,2025/12/04,Eve,Juice,1,,Online,No ice
+464,2025-12-01,UNKNOWN,Tea,2,N/A,Online,No ice
+465,12/02/2025,,Sandwich,Two,2.75,UNKNOWN,Spilled order
+466,12/02/2025,,Sandwich,,3.50,Online,No ice
+467,2025-12-01,Unknown,ERROR,2,,Online,
+468,12/02/2025,Bob,Tea,1,5.00,,No ice
+469,UNKNOWN,,Coffee,ERROR,,UNKNOWN,
+470,UNKNOWN,Bob,Tea,1,5.00,Online,UNKNOWN
+471,2025-12-01,,Juice,1,ERROR,Card,
+472,2025/12/04,Alice,Coffee,Two,3.50,Cash,UNKNOWN
+473,2025/12/04,,,Two,,,
+474,2025-12-01,Eve,,2,,Online,Spilled order
+475,2025/12/04,Charlie,,,3.50,Card,
+476,2025/12/04,Unknown,Sandwich,2,,Online,Spilled order
+477,UNKNOWN,Eve,Tea,3,5.00,Online,Spilled order
+478,2025/12/04,Charlie,,1,,UNKNOWN,No ice
+"479,""Dec 3, 2025"",David,Cake,ERROR,2.75,UNKNOWN,"
+480,,Eve,ERROR,1,ERROR,UNKNOWN,UNKNOWN
+481,12/02/2025,David,Cake,1,N/A,Card,No ice
+"482,""Dec 3, 2025"",Bob,,2,5.00,Online,No ice"
+483,2025/12/04,Bob,ERROR,ERROR,2.75,Cash,Spilled order
+484,UNKNOWN,Alice,Juice,ERROR,ERROR,,Spilled order
+485,2025-12-01,,Cake,ERROR,3.50,UNKNOWN,UNKNOWN
+486,2025/12/04,Eve,Tea,2,5.00,UNKNOWN,
+487,UNKNOWN,David,Tea,1,N/A,Online,
+488,,Charlie,Cake,2,ERROR,Online,No ice
+489,2025/12/04,Bob,,Two,N/A,Card,Extra sugar
+490,2025-12-01,,Tea,Two,3.50,Card,Extra sugar
+491,UNKNOWN,Bob,Juice,2,3.50,UNKNOWN,
+492,UNKNOWN,Charlie,Coffee,ERROR,5.00,Online,Extra sugar
+493,UNKNOWN,,,1,,Cash,
+494,,,Juice,2,3.50,,Spilled order
+495,2025/12/04,David,ERROR,2,ERROR,Online,No ice
+496,,David,Juice,2,,Online,
+497,12/02/2025,Eve,,3,2.75,Card,No ice
+498,12/02/2025,Eve,ERROR,Two,N/A,,
+499,2025/12/04,UNKNOWN,,ERROR,,UNKNOWN,
+500,,Unknown,Tea,,N/A,Online,No ice
+501,2025-12-01,UNKNOWN,Coffee,ERROR,,UNKNOWN,UNKNOWN
+502,UNKNOWN,Alice,,,2.75,Online,
+503,UNKNOWN,Bob,,3,3.50,UNKNOWN,Extra sugar
+504,2025/12/04,Eve,Tea,2,2.75,,Extra sugar
+505,12/02/2025,David,Sandwich,3,3.50,Card,
+506,12/02/2025,Charlie,Tea,3,3.50,,
+507,UNKNOWN,David,ERROR,1,N/A,Cash,UNKNOWN
+508,2025/12/04,Bob,Tea,Two,ERROR,Card,Extra sugar
+509,,UNKNOWN,Tea,,2.75,,
+510,12/02/2025,David,Coffee,2,,Cash,
+511,,Unknown,Tea,,2.75,Online,UNKNOWN
+512,12/02/2025,Alice,,ERROR,N/A,Online,UNKNOWN
+513,12/02/2025,Bob,Coffee,,3.50,UNKNOWN,No ice
+"514,""Dec 3, 2025"",UNKNOWN,Cake,ERROR,N/A,Card,UNKNOWN"
+515,12/02/2025,Unknown,Sandwich,Two,5.00,Online,
+516,2025-12-01,Charlie,Coffee,ERROR,5.00,Card,Extra sugar
+517,2025/12/04,UNKNOWN,ERROR,,,Online,No ice
+518,2025/12/04,,Cake,,N/A,UNKNOWN,
+519,,Unknown,Coffee,ERROR,,,
+520,12/02/2025,Unknown,Coffee,3,,UNKNOWN,
+521,2025-12-01,Alice,Sandwich,Two,5.00,Cash,No ice
+522,,Bob,,1,,Online,UNKNOWN
+"523,""Dec 3, 2025"",Charlie,ERROR,2,5.00,Cash,"
+524,,Alice,Juice,,3.50,Cash,Spilled order
+525,,UNKNOWN,Juice,2,N/A,Card,No ice
+526,12/02/2025,Alice,Coffee,1,,Online,
+"527,""Dec 3, 2025"",Unknown,Tea,2,5.00,Cash,No ice"
+528,,Bob,ERROR,1,2.75,,Extra sugar
+529,2025-12-01,Eve,Cake,ERROR,,Cash,UNKNOWN
+530,2025-12-01,Alice,Tea,3,ERROR,,UNKNOWN
+531,2025/12/04,,Tea,,3.50,Card,No ice
+"532,""Dec 3, 2025"",Alice,ERROR,1,3.50,Cash,"
+"533,""Dec 3, 2025"",UNKNOWN,,2,2.75,UNKNOWN,"
+534,2025/12/04,UNKNOWN,Coffee,,5.00,Card,Spilled order
+535,,Charlie,Coffee,3,,,Spilled order
+"536,""Dec 3, 2025"",UNKNOWN,Coffee,ERROR,5.00,Card,UNKNOWN"
+537,2025-12-01,David,Coffee,,3.50,Cash,Spilled order
+538,2025-12-01,Bob,Juice,1,5.00,Online,
+539,12/02/2025,Bob,Coffee,3,3.50,Online,Spilled order
+"540,""Dec 3, 2025"",Eve,Juice,2,5.00,,"
+541,,Eve,Juice,3,2.75,,Spilled order
+542,2025/12/04,Bob,,3,N/A,Online,UNKNOWN
+543,2025/12/04,,Coffee,Two,2.75,,UNKNOWN
+544,,Eve,Sandwich,3,2.75,Card,
+545,UNKNOWN,Charlie,Cake,3,N/A,UNKNOWN,No ice
+546,12/02/2025,UNKNOWN,Tea,,N/A,UNKNOWN,UNKNOWN
+547,2025/12/04,Bob,Juice,2,,Card,No ice
+"548,""Dec 3, 2025"",Unknown,ERROR,,,UNKNOWN,"
+549,12/02/2025,Eve,ERROR,,2.75,Cash,
+"550,""Dec 3, 2025"",Bob,Cake,1,2.75,Card,UNKNOWN"
+551,2025-12-01,David,ERROR,,3.50,,Extra sugar
+552,12/02/2025,Alice,Sandwich,Two,3.50,Card,
+553,2025/12/04,UNKNOWN,ERROR,Two,,Online,No ice
+554,12/02/2025,Bob,Tea,1,ERROR,,UNKNOWN
+555,12/02/2025,Alice,Tea,ERROR,ERROR,Online,
+556,12/02/2025,Eve,Juice,2,,,Spilled order
+557,UNKNOWN,Alice,Coffee,2,3.50,UNKNOWN,Extra sugar
+558,12/02/2025,UNKNOWN,,,3.50,Card,No ice
+"559,""Dec 3, 2025"",Bob,Sandwich,,ERROR,Cash,"
+560,2025-12-01,David,Juice,ERROR,5.00,,
+561,,,Sandwich,,5.00,,Extra sugar
+562,12/02/2025,Eve,Coffee,2,3.50,Online,
+563,2025/12/04,Bob,ERROR,3,5.00,UNKNOWN,UNKNOWN
+564,12/02/2025,UNKNOWN,ERROR,Two,N/A,Online,Spilled order
+565,2025/12/04,Eve,,3,,Online,
+"566,""Dec 3, 2025"",Charlie,Coffee,3,,UNKNOWN,"
+567,2025/12/04,Alice,Juice,2,3.50,Cash,No ice
+568,,,,3,2.75,Online,UNKNOWN
+569,2025-12-01,UNKNOWN,Coffee,ERROR,ERROR,Online,UNKNOWN
+570,2025/12/04,Charlie,Cake,1,3.50,,
+571,2025/12/04,Unknown,Tea,,5.00,UNKNOWN,UNKNOWN
+572,2025-12-01,Bob,,1,ERROR,Card,No ice
+573,,David,,Two,2.75,Cash,
+574,12/02/2025,Eve,Juice,,5.00,Cash,
+575,2025/12/04,Alice,Sandwich,3,N/A,UNKNOWN,UNKNOWN
+576,2025-12-01,Eve,Cake,Two,5.00,,UNKNOWN
+"577,""Dec 3, 2025"",,Juice,,N/A,,No ice"
+578,2025-12-01,Bob,Coffee,ERROR,ERROR,UNKNOWN,Spilled order
+"579,""Dec 3, 2025"",Eve,Coffee,ERROR,N/A,,Spilled order"
+580,,Alice,Coffee,ERROR,ERROR,Cash,UNKNOWN
+581,12/02/2025,Bob,Coffee,ERROR,ERROR,Cash,
+582,2025-12-01,Eve,Sandwich,3,ERROR,Card,
+583,UNKNOWN,David,Cake,1,ERROR,UNKNOWN,UNKNOWN
+584,2025/12/04,UNKNOWN,ERROR,,ERROR,Online,Extra sugar
+585,,Bob,Tea,3,5.00,Online,
+586,2025-12-01,UNKNOWN,Sandwich,ERROR,ERROR,Card,Spilled order
+587,2025/12/04,Unknown,Sandwich,1,5.00,Card,UNKNOWN
+588,2025-12-01,Bob,ERROR,Two,ERROR,,No ice
+"589,""Dec 3, 2025"",David,ERROR,Two,N/A,Card,Extra sugar"
+590,2025-12-01,UNKNOWN,Tea,Two,ERROR,Card,UNKNOWN
+591,UNKNOWN,Charlie,Tea,ERROR,2.75,Online,
+592,2025-12-01,Alice,ERROR,Two,ERROR,,Extra sugar
+593,2025-12-01,Charlie,Coffee,2,ERROR,Card,UNKNOWN
+594,UNKNOWN,Eve,Sandwich,,N/A,Card,
+595,,David,Juice,,,,Extra sugar
+596,2025-12-01,Charlie,Tea,ERROR,N/A,UNKNOWN,
+597,UNKNOWN,Bob,Tea,2,2.75,,
+598,2025/12/04,Eve,ERROR,3,,Online,Extra sugar
+"599,""Dec 3, 2025"",Eve,Cake,3,3.50,UNKNOWN,Extra sugar"
+"600,""Dec 3, 2025"",Charlie,Juice,Two,3.50,Cash,"
+601,2025-12-01,Unknown,Juice,1,2.75,,Spilled order
+602,,Charlie,Tea,3,N/A,Online,Extra sugar
+603,,Unknown,Coffee,1,5.00,UNKNOWN,UNKNOWN
+604,2025/12/04,David,Cake,,2.75,,
+605,2025-12-01,Alice,Juice,1,,Card,No ice
+"606,""Dec 3, 2025"",Charlie,Tea,,,,"
+607,,,Juice,2,ERROR,Cash,
+608,2025-12-01,Unknown,,2,3.50,,No ice
+609,,Charlie,Cake,ERROR,,UNKNOWN,Spilled order
+610,UNKNOWN,UNKNOWN,Cake,ERROR,2.75,UNKNOWN,No ice
+611,,Bob,,Two,,,Extra sugar
+"612,""Dec 3, 2025"",,Sandwich,3,2.75,UNKNOWN,No ice"
+613,12/02/2025,,,Two,5.00,Card,
+614,2025/12/04,Unknown,ERROR,,ERROR,,No ice
+615,2025/12/04,UNKNOWN,ERROR,Two,3.50,Card,
+"616,""Dec 3, 2025"",UNKNOWN,Tea,1,,Card,UNKNOWN"
+617,,Eve,Cake,,2.75,Online,Extra sugar
+618,2025-12-01,Unknown,Sandwich,ERROR,N/A,,No ice
+619,,Alice,Sandwich,2,3.50,UNKNOWN,
+"620,""Dec 3, 2025"",Bob,Juice,ERROR,5.00,Card,UNKNOWN"
+621,2025/12/04,David,Juice,3,2.75,Online,Extra sugar
+622,,,,,ERROR,,
+623,2025/12/04,David,Sandwich,,ERROR,,Spilled order
+624,2025-12-01,Charlie,,1,5.00,Cash,
+625,2025/12/04,Charlie,,3,5.00,Cash,Spilled order
+626,2025/12/04,David,Juice,2,ERROR,Card,
+627,12/02/2025,Charlie,Cake,,,Cash,No ice
+628,12/02/2025,Alice,,,,Card,Extra sugar
+629,UNKNOWN,UNKNOWN,Coffee,1,2.75,UNKNOWN,No ice
+630,12/02/2025,Charlie,Cake,Two,N/A,Card,
+631,2025/12/04,Eve,Sandwich,2,2.75,Cash,
+"632,""Dec 3, 2025"",Charlie,Sandwich,ERROR,N/A,UNKNOWN,"
+633,2025/12/04,Bob,,3,5.00,Cash,UNKNOWN
+"634,""Dec 3, 2025"",Alice,Cake,,3.50,Card,"
+"635,""Dec 3, 2025"",Bob,Juice,,2.75,Online,Extra sugar"
+636,12/02/2025,Bob,Juice,ERROR,2.75,,No ice
+637,,Eve,ERROR,2,N/A,Cash,No ice
+638,2025-12-01,Alice,Sandwich,Two,5.00,Card,Spilled order
+639,12/02/2025,Alice,Tea,,5.00,UNKNOWN,
+640,12/02/2025,Unknown,ERROR,2,N/A,Cash,
+641,,Alice,Juice,ERROR,5.00,Cash,
+642,2025-12-01,Alice,Cake,1,ERROR,,No ice
+643,2025/12/04,Alice,Juice,Two,,Card,Spilled order
+644,UNKNOWN,Eve,Cake,3,ERROR,Online,
+645,UNKNOWN,Charlie,ERROR,,3.50,UNKNOWN,UNKNOWN
+646,2025/12/04,Unknown,Sandwich,2,2.75,Card,Extra sugar
+647,12/02/2025,Bob,Juice,1,3.50,UNKNOWN,
+648,2025-12-01,Alice,,3,2.75,Cash,No ice
+649,12/02/2025,,Cake,2,,,UNKNOWN
+"650,""Dec 3, 2025"",Charlie,Sandwich,2,5.00,,UNKNOWN"
+651,12/02/2025,Charlie,Tea,3,ERROR,Online,UNKNOWN
+652,12/02/2025,Bob,Cake,1,N/A,,
+653,2025/12/04,Eve,ERROR,ERROR,ERROR,Cash,Extra sugar
+654,2025/12/04,David,Tea,1,,Online,No ice
+655,2025/12/04,David,Tea,Two,3.50,Card,No ice
+656,UNKNOWN,Charlie,Coffee,,N/A,,UNKNOWN
+"657,""Dec 3, 2025"",UNKNOWN,Juice,3,5.00,Online,No ice"
+658,2025/12/04,UNKNOWN,Cake,ERROR,,Cash,Extra sugar
+659,2025-12-01,Bob,Tea,3,N/A,UNKNOWN,Extra sugar
+660,UNKNOWN,David,Coffee,3,,UNKNOWN,Spilled order
+661,,Charlie,ERROR,1,,Cash,Spilled order
+662,2025-12-01,Eve,Sandwich,,5.00,Cash,
+663,2025-12-01,David,,Two,2.75,UNKNOWN,Extra sugar
+664,2025/12/04,Charlie,,2,N/A,Online,Extra sugar
+665,,Charlie,Cake,2,5.00,UNKNOWN,Extra sugar
+666,,Alice,Tea,3,,Cash,Spilled order
+667,UNKNOWN,Eve,,,5.00,,UNKNOWN
+668,,Alice,Juice,ERROR,2.75,Card,UNKNOWN
+"669,""Dec 3, 2025"",Bob,,1,ERROR,,No ice"
+670,2025/12/04,Alice,,,N/A,,UNKNOWN
+671,,,,,2.75,Cash,
+672,UNKNOWN,Alice,Coffee,1,3.50,UNKNOWN,Spilled order
+"673,""Dec 3, 2025"",,Tea,3,N/A,Online,Extra sugar"
+674,12/02/2025,David,Juice,,2.75,,UNKNOWN
+675,12/02/2025,UNKNOWN,Tea,2,,UNKNOWN,Spilled order
+"676,""Dec 3, 2025"",Unknown,Cake,1,N/A,Online,UNKNOWN"
+677,UNKNOWN,Unknown,Cake,ERROR,N/A,,
+"678,""Dec 3, 2025"",Charlie,Cake,Two,5.00,Online,Extra sugar"
+679,2025/12/04,Unknown,ERROR,3,,UNKNOWN,
+680,2025/12/04,,,1,3.50,Card,Extra sugar
+681,12/02/2025,Eve,ERROR,Two,ERROR,UNKNOWN,Spilled order
+682,,Alice,Coffee,Two,2.75,Cash,No ice
+683,UNKNOWN,,Cake,ERROR,5.00,Online,UNKNOWN
+684,12/02/2025,Eve,Juice,,2.75,Card,UNKNOWN
+685,,UNKNOWN,Tea,ERROR,3.50,Online,
+686,,Unknown,,,3.50,Online,
+687,2025/12/04,UNKNOWN,Sandwich,,N/A,,UNKNOWN
+688,2025-12-01,Unknown,Juice,1,3.50,Cash,Spilled order
+689,2025-12-01,Alice,,1,2.75,Online,No ice
+"690,""Dec 3, 2025"",Bob,ERROR,3,,UNKNOWN,Spilled order"
+691,2025/12/04,Alice,ERROR,,,UNKNOWN,
+692,,David,Juice,Two,N/A,,
+693,UNKNOWN,,ERROR,2,ERROR,Cash,UNKNOWN
+694,2025-12-01,Charlie,Cake,3,2.75,Cash,Spilled order
+695,,Bob,Coffee,1,2.75,UNKNOWN,Extra sugar
+696,2025-12-01,Alice,Tea,ERROR,3.50,Card,No ice
+697,2025-12-01,Eve,Coffee,3,2.75,,Spilled order
+698,2025-12-01,Bob,,3,5.00,,No ice
+699,UNKNOWN,,Tea,3,ERROR,UNKNOWN,UNKNOWN
+700,2025/12/04,Unknown,Tea,3,3.50,UNKNOWN,Extra sugar
+701,UNKNOWN,Bob,Coffee,2,5.00,Card,
+702,12/02/2025,Unknown,Juice,ERROR,N/A,Card,
+703,,,Tea,ERROR,,Cash,Extra sugar
+704,2025/12/04,Alice,Coffee,ERROR,N/A,,No ice
+705,2025/12/04,,Tea,,,,UNKNOWN
+706,2025/12/04,Bob,Sandwich,Two,N/A,UNKNOWN,Spilled order
+707,2025/12/04,Eve,Juice,ERROR,2.75,Cash,Extra sugar
+708,UNKNOWN,UNKNOWN,Cake,3,5.00,,
+709,2025/12/04,Bob,Tea,3,,Cash,No ice
+"710,""Dec 3, 2025"",,Sandwich,ERROR,3.50,Cash,"
+711,,UNKNOWN,Cake,ERROR,5.00,UNKNOWN,Extra sugar
+712,2025/12/04,,Cake,3,3.50,Cash,
+713,,Eve,,,5.00,Card,No ice
+"714,""Dec 3, 2025"",,Tea,1,5.00,Card,"
+"715,""Dec 3, 2025"",Alice,Coffee,1,N/A,Online,Extra sugar"
+716,,Charlie,Tea,ERROR,,UNKNOWN,No ice
+717,2025-12-01,Unknown,Sandwich,2,,Online,
+718,12/02/2025,Unknown,Cake,ERROR,5.00,Card,Extra sugar
+719,2025-12-01,Bob,Tea,ERROR,2.75,Online,Spilled order
+720,2025-12-01,Charlie,Coffee,1,2.75,UNKNOWN,UNKNOWN
+721,UNKNOWN,,,3,3.50,UNKNOWN,Extra sugar
+722,2025-12-01,Eve,Tea,ERROR,3.50,Cash,No ice
+723,2025/12/04,Bob,Juice,3,N/A,,UNKNOWN
+724,UNKNOWN,,,3,5.00,Cash,Extra sugar
+725,UNKNOWN,UNKNOWN,Coffee,2,3.50,UNKNOWN,
+"726,""Dec 3, 2025"",David,Sandwich,3,3.50,Card,"
+727,2025-12-01,,Cake,1,ERROR,Card,Spilled order
+"728,""Dec 3, 2025"",Charlie,Tea,,5.00,Cash,"
+729,,Bob,Coffee,,N/A,UNKNOWN,UNKNOWN
+730,12/02/2025,Charlie,,Two,3.50,Card,No ice
+731,UNKNOWN,Bob,Juice,ERROR,N/A,UNKNOWN,No ice
+732,,,Coffee,1,,Card,
+733,,Alice,ERROR,3,N/A,UNKNOWN,
+734,2025/12/04,UNKNOWN,Juice,,2.75,Online,
+735,12/02/2025,,,1,2.75,UNKNOWN,Extra sugar
+736,,Unknown,Sandwich,,N/A,UNKNOWN,Spilled order
+737,,Charlie,Cake,3,2.75,Cash,UNKNOWN
+738,12/02/2025,David,,,,Online,Spilled order
+739,12/02/2025,David,Sandwich,ERROR,5.00,,Spilled order
+740,,Eve,Tea,ERROR,2.75,Cash,Extra sugar
+741,12/02/2025,Bob,Coffee,Two,2.75,,Spilled order
+742,,Charlie,ERROR,Two,N/A,Card,
+743,,Eve,Juice,,,,Extra sugar
+744,2025/12/04,Charlie,Juice,1,5.00,UNKNOWN,
+745,2025-12-01,Unknown,Coffee,ERROR,N/A,,Extra sugar
+746,,Bob,ERROR,1,N/A,Cash,Spilled order
+"747,""Dec 3, 2025"",,Coffee,1,ERROR,Cash,"
+748,UNKNOWN,,Tea,,,,
+749,2025-12-01,David,Sandwich,1,5.00,Cash,
+750,2025-12-01,,,ERROR,,Cash,Extra sugar
+751,2025-12-01,,Juice,3,5.00,,No ice
+752,2025/12/04,Unknown,Tea,Two,,Online,Spilled order
+753,,Alice,Sandwich,3,N/A,Online,
+754,2025/12/04,David,Tea,1,N/A,Card,UNKNOWN
+755,,Eve,ERROR,3,3.50,Cash,No ice
+756,2025/12/04,UNKNOWN,Juice,ERROR,2.75,,UNKNOWN
+757,2025/12/04,Alice,,ERROR,ERROR,Cash,Spilled order
+758,UNKNOWN,Eve,Coffee,1,,UNKNOWN,Spilled order
+"759,""Dec 3, 2025"",Bob,Coffee,,ERROR,Cash,"
+760,2025/12/04,Alice,Sandwich,3,3.50,Cash,
+761,UNKNOWN,Unknown,,,2.75,Online,Extra sugar
+762,12/02/2025,Eve,Cake,,,,No ice
+"763,""Dec 3, 2025"",Bob,ERROR,2,5.00,Cash,No ice"
+764,2025/12/04,David,Sandwich,1,2.75,Online,
+765,2025-12-01,UNKNOWN,Cake,Two,N/A,Card,Spilled order
+766,12/02/2025,Bob,Tea,ERROR,3.50,Online,
+767,12/02/2025,,ERROR,ERROR,2.75,Online,Spilled order
+768,UNKNOWN,Charlie,Tea,1,2.75,Online,Spilled order
+769,12/02/2025,Bob,,Two,N/A,Cash,
+"770,""Dec 3, 2025"",Bob,Juice,ERROR,,Cash,"
+771,2025/12/04,UNKNOWN,ERROR,1,5.00,Card,No ice
+772,2025/12/04,Charlie,Cake,ERROR,N/A,UNKNOWN,UNKNOWN
+773,2025-12-01,,Juice,,5.00,UNKNOWN,Spilled order
+774,UNKNOWN,Eve,Coffee,3,,UNKNOWN,Spilled order
+775,2025-12-01,Eve,Cake,3,2.75,Card,
+776,12/02/2025,Bob,Sandwich,ERROR,5.00,UNKNOWN,UNKNOWN
+777,2025-12-01,Unknown,Coffee,2,3.50,UNKNOWN,Extra sugar
+"778,""Dec 3, 2025"",Unknown,Coffee,Two,3.50,Online,"
+779,2025/12/04,Charlie,Sandwich,Two,N/A,Cash,UNKNOWN
+780,12/02/2025,Charlie,ERROR,Two,,Cash,
+781,2025-12-01,,Coffee,,N/A,Online,Spilled order
+782,UNKNOWN,UNKNOWN,,Two,N/A,Online,No ice
+"783,""Dec 3, 2025"",David,Cake,3,ERROR,Online,"
+"784,""Dec 3, 2025"",Eve,Juice,,N/A,Cash,Extra sugar"
+785,2025-12-01,UNKNOWN,Coffee,1,ERROR,UNKNOWN,
+786,2025/12/04,Alice,Cake,Two,3.50,Online,UNKNOWN
+787,2025-12-01,Eve,Tea,Two,3.50,Card,
+788,12/02/2025,UNKNOWN,Cake,1,N/A,Online,
+789,2025-12-01,Eve,Juice,Two,3.50,,Extra sugar
+"790,""Dec 3, 2025"",David,Cake,1,,Online,No ice"
+791,2025-12-01,Alice,Sandwich,,ERROR,Cash,
+792,2025/12/04,Unknown,Juice,3,ERROR,Online,
+793,UNKNOWN,Unknown,ERROR,1,N/A,,No ice
+794,,David,Tea,2,3.50,Card,Extra sugar
+795,2025-12-01,,Sandwich,1,5.00,UNKNOWN,UNKNOWN
+796,2025/12/04,Alice,ERROR,Two,ERROR,Online,UNKNOWN
+797,2025/12/04,Bob,Cake,,N/A,,
+798,UNKNOWN,UNKNOWN,Juice,ERROR,N/A,,No ice
+"799,""Dec 3, 2025"",Alice,Tea,,,Card,"
+800,2025/12/04,,Sandwich,ERROR,2.75,Cash,
+801,2025/12/04,,ERROR,1,2.75,Online,UNKNOWN
+802,2025/12/04,David,ERROR,3,ERROR,,Spilled order
+803,2025/12/04,Eve,Tea,2,,Card,
+804,12/02/2025,Alice,,,,UNKNOWN,
+805,12/02/2025,UNKNOWN,Cake,Two,,,Extra sugar
+"806,""Dec 3, 2025"",Alice,Tea,ERROR,ERROR,Card,UNKNOWN"
+807,2025-12-01,Charlie,ERROR,Two,2.75,Cash,Spilled order
+808,2025/12/04,Eve,Coffee,3,,Cash,
+809,UNKNOWN,UNKNOWN,Sandwich,ERROR,3.50,,UNKNOWN
+810,2025-12-01,Unknown,Tea,,N/A,,No ice
+811,UNKNOWN,UNKNOWN,,1,N/A,Online,Extra sugar
+812,2025-12-01,Bob,ERROR,Two,5.00,Card,
+"813,""Dec 3, 2025"",David,Cake,3,5.00,,No ice"
+814,2025/12/04,Bob,ERROR,,ERROR,Online,
+815,2025/12/04,UNKNOWN,Cake,,ERROR,Online,No ice
+816,,Eve,Tea,,N/A,,
+817,UNKNOWN,Alice,Cake,,3.50,Cash,
+818,2025-12-01,Unknown,Juice,ERROR,2.75,Card,
+819,2025-12-01,Alice,Juice,,2.75,Card,No ice
+820,12/02/2025,Eve,Juice,Two,ERROR,Cash,No ice
+821,,UNKNOWN,,3,3.50,,
+822,12/02/2025,,,ERROR,ERROR,Card,No ice
+823,12/02/2025,Alice,Coffee,,2.75,,UNKNOWN
+824,12/02/2025,,,2,ERROR,,
+825,UNKNOWN,Alice,Tea,2,,Online,Extra sugar
+826,UNKNOWN,Alice,ERROR,3,ERROR,Cash,
+"827,""Dec 3, 2025"",Unknown,ERROR,1,N/A,,Extra sugar"
+"828,""Dec 3, 2025"",David,Coffee,1,ERROR,UNKNOWN,UNKNOWN"
+829,12/02/2025,David,,ERROR,N/A,Cash,UNKNOWN
+830,,Charlie,Cake,ERROR,3.50,Card,Spilled order
+831,2025-12-01,Bob,Coffee,ERROR,2.75,Online,Spilled order
+832,UNKNOWN,Eve,Cake,1,5.00,Card,Spilled order
+833,,Eve,Cake,2,5.00,Card,
+834,2025/12/04,Eve,Sandwich,1,2.75,Cash,No ice
+835,UNKNOWN,Charlie,ERROR,Two,5.00,Card,UNKNOWN
+836,UNKNOWN,David,Juice,,ERROR,,Extra sugar
+"837,""Dec 3, 2025"",UNKNOWN,,ERROR,3.50,Card,Extra sugar"
+838,2025-12-01,,Cake,2,3.50,Online,Extra sugar
+839,2025-12-01,Unknown,Sandwich,3,2.75,Online,Extra sugar
+840,2025/12/04,,ERROR,3,5.00,UNKNOWN,Spilled order
+841,2025/12/04,UNKNOWN,Juice,,ERROR,Online,Extra sugar
+842,UNKNOWN,Unknown,Cake,2,3.50,Card,No ice
+843,12/02/2025,Charlie,Cake,1,3.50,Online,Spilled order
+"844,""Dec 3, 2025"",UNKNOWN,Coffee,1,,Cash,Extra sugar"
+"845,""Dec 3, 2025"",Eve,Coffee,Two,,Online,"
+846,UNKNOWN,Bob,ERROR,Two,3.50,,
+847,,Alice,Juice,1,2.75,Cash,
+848,12/02/2025,,Cake,3,N/A,UNKNOWN,
+849,UNKNOWN,David,ERROR,ERROR,N/A,,Spilled order
+850,12/02/2025,David,ERROR,3,ERROR,Card,Extra sugar
+851,12/02/2025,Charlie,Tea,Two,3.50,Card,UNKNOWN
+852,12/02/2025,Unknown,,,3.50,Card,UNKNOWN
+853,UNKNOWN,David,Coffee,1,3.50,,UNKNOWN
+"854,""Dec 3, 2025"",Eve,Juice,Two,2.75,,Spilled order"
+"855,""Dec 3, 2025"",,Cake,Two,,,No ice"
+856,12/02/2025,UNKNOWN,ERROR,ERROR,3.50,Cash,
+857,,Eve,Cake,1,3.50,Cash,
+858,2025-12-01,Charlie,Tea,ERROR,5.00,Card,
+859,UNKNOWN,Eve,Juice,1,2.75,Online,
+860,2025-12-01,UNKNOWN,ERROR,ERROR,ERROR,Card,UNKNOWN
+861,,Bob,Cake,3,3.50,UNKNOWN,UNKNOWN
+862,UNKNOWN,Charlie,Coffee,,5.00,Cash,
+863,12/02/2025,Bob,,,N/A,,Extra sugar
+"864,""Dec 3, 2025"",Alice,Tea,1,ERROR,Cash,No ice"
+865,2025-12-01,Bob,Juice,2,3.50,,No ice
+866,2025/12/04,Alice,Tea,Two,3.50,UNKNOWN,No ice
+867,2025/12/04,Alice,Coffee,Two,5.00,UNKNOWN,No ice
+868,,Bob,Juice,1,2.75,Cash,
+869,12/02/2025,Charlie,Tea,ERROR,3.50,,
+870,2025-12-01,Unknown,Sandwich,2,N/A,UNKNOWN,
+871,12/02/2025,UNKNOWN,Coffee,3,3.50,Card,No ice
+872,2025-12-01,Eve,Coffee,ERROR,N/A,Card,
+873,,Eve,Coffee,ERROR,ERROR,,No ice
+874,,UNKNOWN,Sandwich,1,ERROR,Cash,Spilled order
+875,2025/12/04,,Sandwich,1,,UNKNOWN,UNKNOWN
+876,12/02/2025,,Cake,Two,,Cash,
+877,UNKNOWN,Alice,ERROR,1,N/A,Card,Spilled order
+878,2025/12/04,Alice,,1,2.75,UNKNOWN,Extra sugar
+879,12/02/2025,Charlie,Tea,1,3.50,Cash,
+880,2025/12/04,David,Cake,Two,3.50,Online,Extra sugar
+881,UNKNOWN,Bob,Tea,3,,,
+"882,""Dec 3, 2025"",Alice,,3,N/A,,UNKNOWN"
+"883,""Dec 3, 2025"",Eve,ERROR,1,3.50,Online,Spilled order"
+"884,""Dec 3, 2025"",Charlie,Sandwich,Two,3.50,Card,UNKNOWN"
+"885,""Dec 3, 2025"",Bob,ERROR,3,2.75,UNKNOWN,No ice"
+886,2025-12-01,Charlie,Sandwich,ERROR,5.00,,UNKNOWN
+"887,""Dec 3, 2025"",Bob,,3,,Online,UNKNOWN"
+888,UNKNOWN,Bob,ERROR,3,,Online,No ice
+889,,UNKNOWN,Cake,Two,5.00,Card,
+890,,Alice,Juice,ERROR,3.50,Card,No ice
+891,2025-12-01,Unknown,Cake,Two,2.75,Cash,Spilled order
+"892,""Dec 3, 2025"",Charlie,Tea,1,2.75,,UNKNOWN"
+"893,""Dec 3, 2025"",Unknown,Cake,,,Cash,No ice"
+"894,""Dec 3, 2025"",Charlie,,3,2.75,Online,UNKNOWN"
+895,2025/12/04,UNKNOWN,Coffee,,ERROR,UNKNOWN,Spilled order
+896,12/02/2025,Eve,Tea,Two,5.00,UNKNOWN,Extra sugar
+897,2025/12/04,Unknown,ERROR,Two,3.50,Card,Spilled order
+898,12/02/2025,Eve,Tea,Two,ERROR,UNKNOWN,
+"899,""Dec 3, 2025"",,Juice,,5.00,UNKNOWN,"
+"900,""Dec 3, 2025"",Alice,Sandwich,Two,N/A,UNKNOWN,"
+901,2025/12/04,Alice,ERROR,1,,Online,UNKNOWN
+902,2025/12/04,David,Tea,Two,2.75,UNKNOWN,
+903,12/02/2025,UNKNOWN,ERROR,2,N/A,UNKNOWN,
+904,,Eve,ERROR,,2.75,UNKNOWN,
+905,12/02/2025,Bob,ERROR,2,ERROR,Cash,UNKNOWN
+906,2025/12/04,Charlie,Sandwich,Two,3.50,Online,Spilled order
+907,UNKNOWN,Alice,,1,3.50,Card,
+908,2025/12/04,Unknown,Cake,3,3.50,Cash,Extra sugar
+909,UNKNOWN,Charlie,ERROR,ERROR,2.75,,
+910,2025-12-01,Charlie,Coffee,ERROR,N/A,Online,Spilled order
+911,2025/12/04,David,,Two,3.50,Online,
+912,2025-12-01,Eve,Juice,1,N/A,,
+913,,Alice,Sandwich,,2.75,,Spilled order
+914,12/02/2025,Charlie,Tea,2,ERROR,,No ice
+915,UNKNOWN,Alice,Sandwich,2,N/A,Card,Extra sugar
+916,12/02/2025,Bob,Tea,2,ERROR,UNKNOWN,
+917,2025-12-01,David,Sandwich,,2.75,Online,
+918,UNKNOWN,Bob,Tea,ERROR,2.75,UNKNOWN,Extra sugar
+919,12/02/2025,Alice,ERROR,1,,UNKNOWN,Extra sugar
+920,2025/12/04,,Cake,,2.75,,No ice
+"921,""Dec 3, 2025"",Unknown,Tea,2,2.75,Card,"
+922,2025-12-01,Alice,Tea,Two,5.00,Cash,UNKNOWN
+923,12/02/2025,Eve,Coffee,3,3.50,Card,
+924,2025-12-01,Charlie,Tea,,,UNKNOWN,
+925,2025-12-01,Charlie,Coffee,,,Card,Spilled order
+926,UNKNOWN,Bob,Juice,1,,,Spilled order
+927,UNKNOWN,Unknown,ERROR,1,5.00,Cash,
+"928,""Dec 3, 2025"",David,Coffee,,ERROR,,Spilled order"
+929,2025/12/04,,Cake,2,2.75,Cash,Extra sugar
+930,2025-12-01,UNKNOWN,,3,3.50,UNKNOWN,Spilled order
+931,12/02/2025,Unknown,ERROR,1,N/A,Cash,Spilled order
+932,,Charlie,Coffee,2,ERROR,Cash,
+933,2025-12-01,Eve,ERROR,Two,2.75,Cash,No ice
+934,2025-12-01,Unknown,ERROR,1,5.00,Card,Spilled order
+"935,""Dec 3, 2025"",Bob,ERROR,2,2.75,Card,UNKNOWN"
+936,2025/12/04,Bob,Juice,2,2.75,UNKNOWN,Spilled order
+937,,UNKNOWN,Cake,3,5.00,Cash,No ice
+938,UNKNOWN,Eve,Sandwich,3,,Online,
+939,UNKNOWN,David,Sandwich,Two,,UNKNOWN,No ice
+940,12/02/2025,Unknown,Coffee,2,3.50,Cash,
+941,,Eve,ERROR,ERROR,3.50,Cash,Extra sugar
+942,UNKNOWN,David,Coffee,2,,Card,
+943,12/02/2025,Eve,Juice,3,ERROR,UNKNOWN,Extra sugar
+944,2025/12/04,Eve,Juice,ERROR,N/A,Cash,Extra sugar
+945,12/02/2025,Alice,Tea,1,2.75,Cash,
+946,UNKNOWN,Bob,Juice,1,N/A,UNKNOWN,UNKNOWN
+"947,""Dec 3, 2025"",Unknown,Tea,,2.75,Online,"
+"948,""Dec 3, 2025"",Eve,Cake,3,,UNKNOWN,"
+"949,""Dec 3, 2025"",Unknown,Coffee,,3.50,UNKNOWN,Spilled order"
+950,UNKNOWN,UNKNOWN,,ERROR,ERROR,Online,UNKNOWN
+"951,""Dec 3, 2025"",Eve,Cake,3,3.50,UNKNOWN,UNKNOWN"
+952,,Charlie,Juice,Two,N/A,Cash,Spilled order
+953,2025/12/04,Bob,Cake,2,3.50,UNKNOWN,
+954,12/02/2025,Charlie,Cake,Two,,Online,UNKNOWN
+955,12/02/2025,Unknown,Cake,ERROR,ERROR,,Extra sugar
+956,UNKNOWN,Unknown,Juice,3,N/A,UNKNOWN,
+"957,""Dec 3, 2025"",Bob,,ERROR,ERROR,Card,Spilled order"
+"958,""Dec 3, 2025"",Unknown,ERROR,2,2.75,Cash,"
+959,2025-12-01,Charlie,Cake,1,3.50,Cash,
+960,2025/12/04,Eve,Tea,1,ERROR,Card,
+961,,Eve,Juice,ERROR,5.00,Card,Extra sugar
+962,12/02/2025,Alice,Cake,,3.50,UNKNOWN,
+963,2025-12-01,UNKNOWN,,3,2.75,Card,No ice
+964,2025-12-01,Unknown,ERROR,3,ERROR,,Spilled order
+965,UNKNOWN,Charlie,Juice,1,N/A,Online,Spilled order
+966,12/02/2025,Unknown,Sandwich,Two,2.75,Card,
+967,UNKNOWN,Unknown,ERROR,2,5.00,Card,UNKNOWN
+968,,David,Tea,Two,ERROR,,
+969,2025-12-01,Alice,Cake,Two,,Cash,No ice
+970,2025-12-01,Charlie,,ERROR,3.50,Cash,
+971,2025/12/04,Charlie,Sandwich,1,N/A,UNKNOWN,Spilled order
+972,,Unknown,,1,,,
+973,2025-12-01,Alice,Sandwich,1,ERROR,Online,No ice
+974,,Eve,Juice,ERROR,ERROR,Online,UNKNOWN
+975,12/02/2025,Charlie,Sandwich,,2.75,,
+"976,""Dec 3, 2025"",Eve,Tea,Two,ERROR,Online,Extra sugar"
+977,2025-12-01,Alice,Tea,ERROR,N/A,Cash,
+978,2025/12/04,Eve,Coffee,3,,Online,Extra sugar
+979,12/02/2025,Bob,Tea,2,N/A,Online,Spilled order
+980,,David,ERROR,,5.00,,
+981,UNKNOWN,,Sandwich,3,5.00,,
+982,12/02/2025,Charlie,Tea,Two,3.50,Online,
+983,2025-12-01,UNKNOWN,Juice,1,3.50,Card,UNKNOWN
+984,,David,,Two,5.00,,
+"985,""Dec 3, 2025"",,,ERROR,ERROR,UNKNOWN,"
+986,12/02/2025,Eve,Coffee,2,N/A,UNKNOWN,
+987,2025-12-01,Charlie,,ERROR,5.00,Cash,Extra sugar
+988,2025/12/04,Eve,Sandwich,,3.50,Online,
+989,UNKNOWN,Bob,Coffee,,5.00,Card,
+990,,Alice,Sandwich,2,ERROR,Cash,Extra sugar
+991,12/02/2025,Charlie,Juice,3,5.00,Online,No ice
+992,12/02/2025,,Coffee,3,N/A,,Extra sugar
+"993,""Dec 3, 2025"",,Cake,,,UNKNOWN,Extra sugar"
+"994,""Dec 3, 2025"",Bob,ERROR,,ERROR,Card,"
+995,2025/12/04,Bob,ERROR,1,3.50,UNKNOWN,Spilled order
+996,UNKNOWN,Unknown,Sandwich,3,N/A,,Spilled order
+997,2025/12/04,Charlie,,2,5.00,Online,UNKNOWN
+998,2025-12-01,Eve,Cake,3,5.00,,Spilled order
+999,2025-12-01,UNKNOWN,Coffee,1,,,Extra sugar
+1000,2025/12/04,,Cake,ERROR,3.50,UNKNOWN,UNKNOWN
